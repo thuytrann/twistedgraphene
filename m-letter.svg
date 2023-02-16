@@ -1,7 +1,7 @@
 <svg width="0" height="0" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
     <g id="Assets" fill="none">
     		<defs>
-    		<clipPath id="a-mask" clipPathUnits="objectBoundingBox">
+    		<clipPath id="m-mask" clipPathUnits="objectBoundingBox">
 <rect width="14" height="14" fill="black"/>
 <rect x="42" width="14" height="14" fill="black"/>
 <rect x="63" width="14" height="14" fill="black"/>
