@@ -1,0 +1,70 @@
+<svg width="0" height="0" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Assets" fill="none">
+    		<defs>
+    		<clipPath id="slay-mask" clipPathUnits="objectBoundingBox">
+<rect x="21" width="14" height="14" fill="black"/>
+<rect x="42" width="14" height="14" fill="black"/>
+<rect x="63" width="14" height="14" fill="black"/>
+<rect x="105" width="14" height="14" fill="black"/>
+<rect y="21" width="14" height="14" fill="black"/>
+<rect x="84" y="21" width="14" height="14" fill="black"/>
+<rect y="42" width="14" height="14" fill="black"/>
+<rect x="21" y="63" width="14" height="14" fill="black"/>
+<rect x="42" y="63" width="14" height="14" fill="black"/>
+<rect x="63" y="63" width="14" height="14" fill="black"/>
+<rect x="84" y="63" width="14" height="14" fill="black"/>
+<rect x="105" y="84" width="14" height="14" fill="black"/>
+<rect x="21" y="105" width="14" height="14" fill="black"/>
+<rect x="105" y="105" width="14" height="14" fill="black"/>
+<rect y="126" width="14" height="14" fill="black"/>
+<rect x="42" y="126" width="14" height="14" fill="black"/>
+<rect x="63" y="126" width="14" height="14" fill="black"/>
+<rect x="84" y="126" width="14" height="14" fill="black"/>
+<rect x="151" width="14" height="14" fill="black"/>
+<rect x="193" width="14" height="14" fill="black"/>
+<rect x="172" y="21" width="14" height="14" fill="black"/>
+<rect x="172" y="42" width="14" height="14" fill="black"/>
+<rect x="172" y="63" width="14" height="14" fill="black"/>
+<rect x="172" y="84" width="14" height="14" fill="black"/>
+<rect x="172" y="105" width="14" height="14" fill="black"/>
+<rect x="256" y="105" width="14" height="14" fill="black"/>
+<rect x="151" y="126" width="14" height="14" fill="black"/>
+<rect x="193" y="126" width="14" height="14" fill="black"/>
+<rect x="214" y="126" width="14" height="14" fill="black"/>
+<rect x="235" y="126" width="14" height="14" fill="black"/>
+<rect x="256" y="126" width="14" height="14" fill="black"/>
+<rect x="344" width="14" height="14" fill="black"/>
+<rect x="365" width="14" height="14" fill="black"/>
+<rect x="386" width="14" height="14" fill="black"/>
+<rect x="323" y="21" width="14" height="14" fill="black"/>
+<rect x="407" y="21" width="14" height="14" fill="black"/>
+<rect x="323" y="42" width="14" height="14" fill="black"/>
+<rect x="407" y="42" width="14" height="14" fill="black"/>
+<rect x="323" y="63" width="14" height="14" fill="black"/>
+<rect x="344" y="63" width="14" height="14" fill="black"/>
+<rect x="365" y="63" width="14" height="14" fill="black"/>
+<rect x="386" y="63" width="14" height="14" fill="black"/>
+<rect x="407" y="63" width="14" height="14" fill="black"/>
+<rect x="323" y="84" width="14" height="14" fill="black"/>
+<rect x="407" y="84" width="14" height="14" fill="black"/>
+<rect x="323" y="105" width="14" height="14" fill="black"/>
+<rect x="407" y="105" width="14" height="14" fill="black"/>
+<rect x="302" y="126" width="14" height="14" fill="black"/>
+<rect x="344" y="126" width="14" height="14" fill="black"/>
+<rect x="386" y="126" width="14" height="14" fill="black"/>
+<rect x="428" y="126" width="14" height="14" fill="black"/>
+<rect x="474" width="14" height="14" fill="black"/>
+<rect x="558" width="14" height="14" fill="black"/>
+<rect x="495" y="21" width="14" height="14" fill="black"/>
+<rect x="537" y="21" width="14" height="14" fill="black"/>
+<rect x="495" y="42" width="14" height="14" fill="black"/>
+<rect x="537" y="42" width="14" height="14" fill="black"/>
+<rect x="516" y="63" width="14" height="14" fill="black"/>
+<rect x="516" y="84" width="14" height="14" fill="black"/>
+<rect x="516" y="105" width="14" height="14" fill="black"/>
+<rect x="495" y="126" width="14" height="14" fill="black"/>
+<rect x="537" y="126" width="14" height="14" fill="black"/>
+        </clipPath>
+        </defs>
+    </g>
+</svg>
